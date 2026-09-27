@@ -5,3 +5,12 @@ skills.forEach(function(skill){
     skillElements.textContent = skill
     skillList.appendChild(skillElements)
 })
+
+const projects =[
+    {
+        title: "Calculator",
+        discription: "helps in mathematical functions",
+        tech: "HTML, CSS, javascript"
+
+    }
+]

@@ -103,3 +103,32 @@ span {
     width: 45%;
 }
 
+.skills {
+    padding: 55px 10%;
+    text-align: center;
+}
+
+.skills h2 {
+    font-size: 40px;
+    margin-bottom: 35px;
+}
+
+#skills-list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+/* #skills-list p {
+    width: 100px;
+    height: 95px;
+    background-color: #38bdf8;
+    border: 1px solid #243a5a;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    col
+} */

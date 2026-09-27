@@ -236,3 +236,27 @@ span {
     font-size: 14px;
 }
 
+#contact {
+    padding: 50px;
+    background-color: #0f1a35 ;
+}
+
+.section-title {
+    margin-bottom: 30px;
+}
+
+.contact-container {
+    display: flex;
+    align-items: center;
+    gap: 100px;
+}
+
+.contact-container a {
+    list-style: none;
+    text-decoration: none;
+    color: #38bdf8 ;
+}
+
+.contact-section h2 {
+    color: #f8fafc ;
+}

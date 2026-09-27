@@ -49,7 +49,7 @@ li {
 }
  
 .nav-bar a:hover {
-    color: #38bdf8;
+    color: yellowgreen;
 }
 
 .hero {
@@ -121,17 +121,6 @@ span {
     display: flex;
     justify-content: center;
 }
-
-/* .about-img img {
-    width: 350px;
-    height: 350px;
-
-    object-fit: cover;
-
-    border-radius: 20px;
-
-    border: 3px solid #38bdf8;
-} */
 
 .about-text {
     width: 45%;
@@ -255,6 +244,10 @@ span {
     list-style: none;
     text-decoration: none;
     color: #38bdf8 ;
+}
+
+.contact-container a:hover {
+     color: yellowgreen;
 }
 
 .contact-section h2 {

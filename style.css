@@ -80,3 +80,19 @@ hero {
     display: block;
     margin: auto;
 }
+
+.about-sct {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 80px 10%;
+}
+
+.about-img {
+    width: 45%;
+}
+
+.about-text {
+    width: 45%;
+}

@@ -91,7 +91,7 @@ span {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 80px 10%;
+    padding: 90px 10%;
     background-color: #0f1a35;
 }
 
@@ -121,7 +121,7 @@ span {
     flex-wrap: wrap;
 }
 
-/* #skills-list p {
+#skills-list p {
     width: 100px;
     height: 95px;
     background-color: #38bdf8;
@@ -130,5 +130,13 @@ span {
     display: flex;
     align-items: center;
     justify-content: center;
-    col
-} */
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 600;
+    transition: 0.3s;
+}
+
+#skills-list p:hover {
+    border-color: #6c4cff;
+    
+}

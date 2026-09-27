@@ -9,14 +9,15 @@ skills.forEach(function(skill){
 const projects =[
     {
         title: "Calculator",
-        discription: "helps in mathematical functions",
+        description: "helps in mathematical functions",
         tech: "HTML, CSS, javascript"
 
     },
 
     {
         title: "fintense",
-        discription: "allows users to be part of a fitnese community",
+        description: "allows users to be part of a fitnese community",
         tech: "HTML, CSS, javascript"
     }
 ]
+

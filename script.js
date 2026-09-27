@@ -9,7 +9,7 @@ skills.forEach(function(skill){
 const projects =[
     {
         title: "Calculator",
-        description: "helps in mathematical functions",
+        description: "helps in mathematical calculations",
         tech: "HTML, CSS, javascript"
 
     },
@@ -28,6 +28,7 @@ projects.forEach(function(project) {
     projectCard.innerHTML = `
         <h3>${project.title}</h3>
         <p>${project.description}</p>
+        <P>Technologies: ${project.tech}</p>
         
     `
 

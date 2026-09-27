@@ -12,7 +12,7 @@ const projects =[
         discription: "helps in mathematical functions",
         tech: "HTML, CSS, javascript"
 
-    }
+    },
 
     {
         title: "fintense",

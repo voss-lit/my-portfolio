@@ -20,7 +20,7 @@ GitHub – Used to host the project and manage the repository
 GitHub Pages – Used to deploy the website
 How to Run Locally
 Clone the repository:
-git clone https://github.com/yourusername/portfolio-website.git
+git clone 
 Navigate into the project folder:
 cd portfolio-website
 Open the project in Visual Studio Code.

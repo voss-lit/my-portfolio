@@ -1,0 +1,30 @@
+Personal Portfolio Website
+
+A responsive personal portfolio website showcasing my skills, projects, background, and contact information as a junior fullstack developer.
+Features
+Responsive navigation bar with smooth section navigation
+Home section introducing the developer
+About section with personal and professional information
+Skills section displaying technical skills
+Projects section showcasing completed projects
+Contact section with email and GitHub links
+Responsive design for different screen sizes
+Interactive elements powered by JavaScript
+Clean and modern user interface
+Technologies Used
+HTML5 – Used to structure the website
+CSS3 – Used for styling, layout, responsiveness, and visual design
+JavaScript – Used to add interactivity and dynamically display content
+Git – Used for version control
+GitHub – Used to host the project and manage the repository
+GitHub Pages – Used to deploy the website
+How to Run Locally
+Clone the repository:
+git clone https://github.com/yourusername/portfolio-website.git
+Navigate into the project folder:
+cd portfolio-website
+Open the project in Visual Studio Code.
+Open index.html in your browser, or use the Live Server extension in VS Code to run the website locally.
+What I Learned
+
+Through this project, I learned how to structure a complete one-page website using HTML, style and make it responsive with CSS, and use JavaScript to dynamically create and manage content. I also gained practical experience using Git and GitHub for version control and deploying a website using GitHub Pages.

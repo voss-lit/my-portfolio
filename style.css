@@ -37,3 +37,46 @@ li a {
     font-weight: bold;
     margin-right: 25px;
 }
+
+hero {
+    display: flex;
+    min-height: 100vh;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px 10%;
+}
+
+.text-cnt {
+    width: 50%;
+}
+
+.image-cnt {
+    width: 50%;
+}
+.container-1 {
+    margin-left: 7%;
+    margin-top: 6%;
+}
+
+.text-cnt h1 {
+    font-size: 56px;
+    color: blue;
+} 
+.text-cnt h3 {
+    font-size: 18px;
+    letter-spacing: 1px;
+    line-height: 20px;
+}
+
+.text-cnt a {
+    color: blue;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.image-cnt img {
+    width: 100%;
+    max-width: 450px;
+    display: block;
+    margin: auto;
+}

@@ -21,3 +21,15 @@ const projects =[
     }
 ]
 
+const projectsList = document.getElementById("projectList")
+projects.forEach(function(project) {
+    const projectCard = document.createElement("div")
+
+    projectCard.innerHTML = `
+        <h3>${project.title}</h3>
+        <p>${project.description}</p>
+        
+    `
+
+    projectsList.appendChild(projectCard)
+})

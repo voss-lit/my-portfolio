@@ -45,6 +45,7 @@ li {
     font-size: 18px;
     font-weight: bold;
     margin-right: 25px;
+    color: #38bdf8;
 }
  
 .nav-bar a:hover {
@@ -112,6 +113,17 @@ span {
     gap: 80px;
 }
 
+.about-text h2 {
+    color: #f8fafc;
+    margin-bottom: 60px;
+    text-decoration: underline #38bdf8;
+
+}
+
+.about-text p {
+    color: #94a3b8;
+}
+
 .about-img {
     width: 45%;
     display: flex;
@@ -143,7 +155,8 @@ span {
 .skills h2 {
     font-size: 40px;
     margin-bottom: 35px;
-    margin-bottom: 60px;
+    margin-bottom: 200px;
+    color: #f8fafc;
 }
 
 #skills-list {
@@ -152,6 +165,7 @@ span {
     align-items: center;
     gap: 20px;
     flex-wrap: wrap;
+    margin: 30px;
 }
 
 #skills-list p {

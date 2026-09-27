@@ -88,14 +88,6 @@ span {
     color: #f8fafc;
 }
 
-.hero-btn {
-    color: #38bdf8;
-    font-size: 16px;
-    cursor: pointer;
-   
-
-}
-
 .image-cnt img {
     width: 100%;
     max-width: 450px;
@@ -243,3 +235,4 @@ span {
     border-radius: 20px;
     font-size: 14px;
 }
+

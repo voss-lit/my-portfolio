@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+body {
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.nav-bar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: black;
+    color: white;
+    margin: auto;
+    padding: 15px 0;
+}
+
+.logo {
+    font-size: 24px;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+    padding: 15px;
+    cursor: pointer;
+}
+
+li a {
+    font-size: 18px;
+    font-weight: bold;
+    margin-right: 25px;
+}

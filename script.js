@@ -9,14 +9,14 @@ skills.forEach(function(skill){
 const projects =[
     {
         title: "Calculator",
-        description: "helps in mathematical calculations",
+        description: "A responsive calculator web application that allows users to perform basic mathematical calculations through an interactive and easy-to-use interface.",
         tech: "HTML, CSS, javascript"
 
     },
 
     {
         title: "fintense",
-        description: "allows users to be part of a fitnese community",
+        description: "A fitness community web application that allows users to connect, share their fitness journey, and stay motivated while working toward their health and fitness goals.",
         tech: "HTML, CSS, javascript"
     }
 ]

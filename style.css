@@ -174,9 +174,10 @@ span {
 
 #skills-list p:hover {
     border-color: #6c4cff;
+    transform: translateY(-6px);
+    background-color: #0f1a35;
     
 }
-
 
 .projects {
     min-height: 80vh;
@@ -200,6 +201,13 @@ span {
     max-width: 1000px;
     margin: 0 auto
 }
+
+/* #projectList:hover {
+    border-color: #6c4cff;
+    transform: translateY(-6px);
+    background-color: #0f1a35;
+    
+} */
 
 #projectList > div {
     width: 500px;
